@@ -77,10 +77,5 @@ for n in videos_array:
 output += "</table>"
 
 videos_to_watch.write(output)
-print(output)
-
-'''
-TODO:
-Filter out shorts
 Find out long channel id
 '''
